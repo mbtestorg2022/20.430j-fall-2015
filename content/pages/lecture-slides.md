@@ -319,7 +319,7 @@ AG
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Electrophoresis, chromatography and extracellular matrix biochemistry (PDF - 2.6MB)]({{< baseurl >}}/resources/mit20_430jf15_lecture23)
+[Electrophoresis, chromatography and extracellular matrix biochemistry (PDF - 2.6MB)]({{< baseurl >}}/resources/mit20_430jf15_lecture23)
 {{< tdclose >}}
 {{< tdopen >}}
 AG
