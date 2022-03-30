@@ -4,6 +4,7 @@ description: 'This resource contains information regarding Porous media flows: E
   and intracellular.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/eb736dc756de80bfeeaed5e7a7df9928_MIT20_430JF15_Lecture25.pdf
 file_type: application/pdf
+parent_uid: 00af40b1-0dae-3d00-3b84-f7b075853f42
 resourcetype: Document
 title: 'Porous media flows: Extracellular and intracellular'
 uid: eb736dc7-56de-80bf-eeae-d5e7a7df9928
